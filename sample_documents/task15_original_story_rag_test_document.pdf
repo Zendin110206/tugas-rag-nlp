@@ -1,0 +1,310 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 4697 >>
+stream
+BT /F2 18.0 Tf 1 0 0 1 64 728.0 Tm (Letters Across the Slow Train Line) Tj ET
+BT /F1 11.0 Tf 1 0 0 1 64 706.0 Tm (Original sample PDF for Task 15 RAG Parameter Exploration) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 64 689.0 Tm (Fictional, public, non-private, and designed for chunking/retrieval experiments.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 661.0 Tm (1. Baseline Facts for Retrieval Tests) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 641.0 Tm (This document is fictional and original. It is not a retelling of any existing film,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 626.6 Tm (novel, or anime. The story uses common coming-of-age themes: childhood friendship,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 612.2 Tm (letters, distance, trains, seasons, and the quiet difficulty of growing up.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 592.8 Tm (Main characters: Raka Pradipta, Maya Salsabila, and Nara Wicaksana. Raka is careful with) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 578.4 Tm (words and likes drawing railway maps. Maya is patient, observant, and keeps pressed) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 564.0 Tm (flowers inside notebooks. Nara is Raka's classmate in high school and later becomes the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 549.6 Tm (person who notices Raka's emotional distance before Raka understands it himself.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 530.2 Tm (Key places: Kota Liris, Senja Elementary School, Platform 3 of Liris Station, Kiyora) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 515.8 Tm (Town, North Aruna Middle School, the old tamarind tree near the river path, and the hill) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 501.4 Tm (behind Kiyora Library.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 482.0 Tm (Important objects: a blue tin pencil case, a red scarf, a stack of 47 letters, a folded) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 467.6 Tm (railway map, a paper bookmark with a rain stain, and a brass station clock that stopped) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 453.2 Tm (at 17:42 during a power outage.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 433.8 Tm (Important dates: Raka and Maya first speak on 17 July 2014. Maya moves away on 29 March) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 419.4 Tm (2016. Their first letter is posted on 6 April 2016. Their planned reunion happens on 12) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 405.0 Tm (February 2018 during heavy rain and delayed trains. Raka writes his final unsent letter) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 390.6 Tm (on 3 December 2023.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 371.2 Tm (RAG parameter names intentionally included for search tests: CHUNK_SIZE, TOP_K_INITIAL,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 356.8 Tm (FINAL_TOP_M, USE_RERANKER, TEMPERATURE, and GROQ_MODEL. These names appear in the story) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 342.4 Tm (guide so exact keyword retrieval can be compared with semantic retrieval.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 323.0 Tm (Recommended baseline questions: Who owns the blue tin pencil case? What happened on 12) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 308.6 Tm (February 2018? How many letters were kept? Where did Maya place pressed flowers? Why is) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 294.2 Tm (the brass station clock important?) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 270.8 Tm (2. First Meeting at Senja Elementary) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 250.8 Tm (Raka met Maya during the first week of grade five at Senja Elementary School. The) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 236.4 Tm (classroom windows faced a row of rain trees, and every afternoon the leaves made) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 222.0 Tm (shifting shadows across the blackboard. Raka had transferred from another district) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 207.6 Tm (because his mother started working at Liris General Hospital. He arrived with a blue tin) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 193.2 Tm (pencil case, two sharpened pencils, and a habit of sitting near the door so he could) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 178.8 Tm (leave quickly when the bell rang.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 159.4 Tm (Maya sat by the window. She was not loud, but everyone noticed that she remembered small) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 145.0 Tm (things. If a classmate forgot lunch money, she knew which teacher kept emergency) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 130.6 Tm (biscuits. If someone lost a ruler, she remembered who borrowed it the day before. When) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 116.2 Tm (the class was asked to draw a map of the neighborhood, Maya drew the route from school) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 101.8 Tm (to the river path, while Raka drew every railway line he knew, even the abandoned) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 87.4 Tm (freight spur behind Liris Station.) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 64 34 Tm (Task 15 RAG sample document - page 1 of 6) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 5317 >>
+stream
+BT /F1 10.2 Tf 1 0 0 1 64 728.0 Tm (Their first conversation happened because Raka dropped his pencil case. It opened on the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 713.6 Tm (floor with a sound sharp enough to make the class turn around. Maya helped him collect) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 699.2 Tm (the pencils and noticed a tiny paper map folded under the eraser. She did not laugh. She) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 684.8 Tm (asked, 'Does the line really split after Platform 3?' Raka looked surprised because) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 670.4 Tm (nobody in class had ever asked about platforms. He answered carefully, 'Only for the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 656.0 Tm (evening freight train, and only when the signal is green.') Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 636.6 Tm (After that day, they walked home together twice a week until the river bridge. Maya told) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 622.2 Tm (stories about clouds and the names she invented for them. Raka told her which trains) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 607.8 Tm (were late most often. They shared no dramatic promise at first. Their friendship grew) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 593.4 Tm (from ordinary repetition: waiting under the same roof during rain, trading library) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 579.0 Tm (cards, copying homework instructions, and silently knowing when the other wanted) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 564.6 Tm (company.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 545.2 Tm (By the end of grade five, their classmates had started calling them the station pair.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 530.8 Tm (Raka pretended to dislike the nickname, but he kept a sketch in his notebook titled) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 516.4 Tm (Platform 3, River Path, Two Shadows. Maya saw the title once and only smiled. The sketch) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 502.0 Tm (became important later because Raka mailed a copy of it with his seventh letter.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 478.6 Tm (3. The Plan That Failed Before Middle School) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 458.6 Tm (During grade six, Raka and Maya planned to attend the same middle school. The plan was) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 444.2 Tm (simple: North Liris Middle School was close to both their homes, the uniform was blue,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 429.8 Tm (and the library had a window seat that Maya wanted to claim before anyone else. Raka) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 415.4 Tm (made a timetable showing how they could walk from school to Liris Station in eleven) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 401.0 Tm (minutes if they used the narrow alley behind the stationery shop.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 381.6 Tm (The plan changed in January 2016. Maya's father, who repaired weather instruments for) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 367.2 Tm (the regional airport, received a transfer to Kiyora Town. Kiyora was not impossibly far,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 352.8 Tm (but for two children it felt like a different country. It required a local train, a) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 338.4 Tm (transfer at Aruna Junction, and then a bus that stopped near the old market only four) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 324.0 Tm (times a day. Maya heard the news before lunch and said nothing until the last class) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 309.6 Tm (ended.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 290.2 Tm (Raka found her by the river path, standing under the tamarind tree. She had a red scarf) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 275.8 Tm (around her neck because the wind was cold. He asked whether the transfer was certain.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 261.4 Tm (Maya nodded. She did not cry at first. She only said that North Liris Middle School) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 247.0 Tm (would not accept a student living outside the district. Raka unfolded his timetable and) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 232.6 Tm (stared at it as if a different route might appear if he looked long enough.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 213.2 Tm (They made a replacement plan. They would write letters every week. They would save train) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 198.8 Tm (tickets. They would meet once during the first winter break after middle school started.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 184.4 Tm (Maya promised to send pressed flowers from Kiyora's library hill. Raka promised to send) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 170.0 Tm (station maps and sketches. The promises sounded practical enough to be believable, which) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 155.6 Tm (made them more painful.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 136.2 Tm (Maya moved on 29 March 2016. Raka went to Liris Station with his mother, but he stood) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 121.8 Tm (behind a vending machine when Maya's family arrived. He thought he would wave when the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 107.4 Tm (train left. Instead, when Maya looked back from the carriage door, he lowered his eyes) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 93.0 Tm (and pretended to tie his shoelace. Maya saw him anyway. Later she wrote that she had not) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 78.6 Tm (been angry. She wrote that some goodbyes become too large for the body, so the body) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 64 34 Tm (Task 15 RAG sample document - page 2 of 6) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 5134 >>
+stream
+BT /F1 10.2 Tf 1 0 0 1 64 728.0 Tm (chooses a smaller task, like tying a shoelace.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 704.6 Tm (4. Letters, Weather, and the Slow Change of Distance) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 684.6 Tm (The first letter arrived on 9 April 2016, although Maya posted it on 6 April. The) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 670.2 Tm (envelope smelled faintly of paper dust and rain. Inside was a pressed violet from the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 655.8 Tm (hill behind Kiyora Library. Maya wrote about her new classroom, the train line visible) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 641.4 Tm (from the sports field, and a classmate who always hummed while solving math problems.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 627.0 Tm (She ended with one sentence that Raka read many times: 'The sky here is wider, but I do) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 612.6 Tm (not know where to put the extra space.') Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 593.2 Tm (Raka answered with a drawing of Platform 3 and a timetable copied from the station) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 578.8 Tm (board. His handwriting was stiff because he rewrote the letter three times. He wanted to) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 564.4 Tm (say he missed her, but wrote instead that the evening freight train now passed at 18:13) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 550.0 Tm (instead of 18:07. Maya understood the translation. In her second letter she wrote, 'I) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 535.6 Tm (miss the old sound too.') Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 516.2 Tm (For the first year, the letters came steadily. Maya numbered hers in the corner. Raka) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 501.8 Tm (did the same after letter five. By December 2016, they had exchanged 23 letters. By) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 487.4 Tm (August 2017, the number reached 41. Raka kept all of Maya's letters in the blue tin) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 473.0 Tm (pencil case after removing the pencils. Maya tied Raka's letters with white thread and) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 458.6 Tm (kept them inside a biscuit tin under her desk.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 439.2 Tm (The subjects of the letters changed slowly. At first they wrote about teachers,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 424.8 Tm (homework, the taste of cafeteria curry, train delays, and the exact color of the evening) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 410.4 Tm (sky. Later the letters carried longer pauses. Maya wrote about feeling tired after) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 396.0 Tm (joining the astronomy club. Raka wrote about losing a district art competition and) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 381.6 Tm (pretending it did not matter. They still shared details, but the details had to travel) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 367.2 Tm (farther before they reached the right feeling.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 347.8 Tm (The forty-seventh letter became the last one before their reunion. Maya wrote it on 28) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 333.4 Tm (January 2018. She enclosed a paper bookmark with a rain stain and asked whether Raka) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 319.0 Tm (still remembered the tamarind tree near the river path. Raka answered on 2 February, but) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 304.6 Tm (he never mailed the response. Instead, he kept it in his school bag because they had) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 290.2 Tm (already planned to meet on 12 February 2018.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 266.8 Tm (5. The Reunion During Delayed Trains) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 246.8 Tm (The plan for 12 February 2018 looked precise. Raka would leave Liris Station at 14:20,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 232.4 Tm (transfer at Aruna Junction at 15:05, and reach Kiyora Town at 16:10. Maya would wait at) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 218.0 Tm (the old market bus stop wearing the red scarf. They would walk to Kiyora Library, climb) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 203.6 Tm (the hill, and place their old letters under the wooden bench for a photograph. Raka) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 189.2 Tm (copied the route into his folded railway map and checked it every hour the night before.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 169.8 Tm (Rain began before noon. By 13:40 the station speakers announced delays on the Aruna line) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 155.4 Tm (because of a signal failure near East Rindang. Raka's 14:20 train left at 14:58. He) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 141.0 Tm (missed the 15:05 transfer and waited at Aruna Junction while rainwater moved in silver) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 126.6 Tm (lines across the platform tiles. At 16:27, the power flickered. The brass station clock) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 112.2 Tm (stopped at 17:42 and did not move again for the rest of the evening.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 92.8 Tm (Maya waited at the bus stop longer than she had planned. The old market closed, the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 78.4 Tm (vegetable sellers covered their baskets, and the last school bus left. She held the red) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 64 34 Tm (Task 15 RAG sample document - page 3 of 6) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 5218 >>
+stream
+BT /F1 10.2 Tf 1 0 0 1 64 728.0 Tm (scarf with both hands because the wind kept loosening it. She had brought the biscuit) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 713.6 Tm (tin of letters in a canvas bag. At 18:30, an old woman from the tea stall told her the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 699.2 Tm (hill path would be muddy and unsafe after dark. Maya stayed anyway.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 679.8 Tm (Raka arrived in Kiyora at 19:18. The bus to the old market had stopped running. He) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 665.4 Tm (walked for forty minutes through rain, following street lamps and the map that had begun) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 651.0 Tm (to tear at the fold. When he reached the bus stop, Maya was there, not under dramatic) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 636.6 Tm (moonlight, not perfectly framed, but tired, soaked, and real. For several seconds) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 622.2 Tm (neither of them moved. Then Maya laughed first because Raka's hair was flat against his) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 607.8 Tm (forehead.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 588.4 Tm (They did not say the perfect things. Raka apologized for being late. Maya said the rain) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 574.0 Tm (was not his fault. Raka said he should have mailed the forty-eighth letter. Maya said) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 559.6 Tm (she had brought all forty-seven anyway. They walked to the library hill but did not) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 545.2 Tm (climb to the bench because the path had turned to mud. Instead they sat inside the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 530.8 Tm (closed bus shelter and opened the biscuit tin.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 511.4 Tm (Raka expected the reunion to repair the distance. It did not. It gave the distance a) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 497.0 Tm (shape. They read parts of old letters aloud and discovered that some sentences still) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 482.6 Tm (sounded alive while others belonged completely to the children who wrote them. Maya) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 468.2 Tm (found the sketch titled Platform 3, River Path, Two Shadows and touched the corner as if) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 453.8 Tm (checking whether paper could remember skin.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 434.4 Tm (At 21:05, Maya's father arrived in a small white car. He had been looking for her after) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 420.0 Tm (the tea stall owner called the house. Before leaving, Maya gave Raka the paper bookmark) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 405.6 Tm (with the rain stain. Raka gave her the folded railway map. They promised to write again,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 391.2 Tm (but both understood that the promise had changed. It was no longer a bridge. It was a) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 376.8 Tm (lantern left on the bank.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 353.4 Tm (6. High School, Nara, and the Problem of Looking Forward) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 333.4 Tm (High school began with new uniforms, new classrooms, and the feeling that everyone else) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 319.0 Tm (had received instructions Raka had missed. He joined the art club but drew mostly) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 304.6 Tm (stations, empty roads, and telephone wires. Maya wrote only three letters during the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 290.2 Tm (first year after the reunion. Raka answered two. The third remained inside his drawer) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 275.8 Tm (because he could not decide whether a short answer was honest or cruel.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 256.4 Tm (Nara Wicaksana sat behind Raka in literature class. She was direct in a way that made) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 242.0 Tm (silence difficult. When the teacher asked students to describe a place that felt like) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 227.6 Tm (home, Raka wrote about Platform 3 without naming why. Nara read his paragraph during) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 213.2 Tm (peer review and said, 'This sounds like waiting, not home.' Raka disliked the comment) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 198.8 Tm (because it was accurate.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 179.4 Tm (Nara became Raka's friend because she did not ask for the whole story at once. She asked) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 165.0 Tm (practical questions first: why he always checked train schedules, why he kept a paper) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 150.6 Tm (bookmark in his wallet, why he never submitted drawings with people facing forward. Raka) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 136.2 Tm (answered with fragments. Nara did not try to fix them. She only said that fragments were) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 121.8 Tm (still evidence.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 102.4 Tm (In 2020, during a school festival, Nara asked Raka whether he wanted to enter the) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 88.0 Tm (illustration contest with a piece that included a face. Raka said he was bad at faces.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 73.6 Tm (Nara replied that he was not bad at faces; he was afraid of choosing where the eyes) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 64 34 Tm (Task 15 RAG sample document - page 4 of 6) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 5068 >>
+stream
+BT /F1 10.2 Tf 1 0 0 1 64 728.0 Tm (should look. That sentence stayed with him longer than he admitted.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 708.6 Tm (Raka never stopped caring about Maya. But caring became less like a road and more like) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 694.2 Tm (weather: present, changing, impossible to hold in place. Maya entered a science program) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 679.8 Tm (in Kiyora. She sent a postcard showing the observatory dome and wrote that she had) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 665.4 Tm (learned to identify Orion without a chart. Raka placed the postcard beside the bookmark) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 651.0 Tm (and did not answer for two months.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 627.6 Tm (7. The Last Unsent Letter) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 607.6 Tm (On 3 December 2023, Raka wrote a final letter he did not send. He wrote it after seeing) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 593.2 Tm (a train pass behind the university studio where he worked part-time. The sound made him) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 578.8 Tm (think of Senja Elementary, the tamarind tree, the rain at Kiyora, and the clock stopped) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 564.4 Tm (at 17:42. He wrote that he had once believed distance was an enemy. Now he thought) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 550.0 Tm (distance was also a measurement: it showed what had grown, what had faded, and what) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 535.6 Tm (still quietly returned.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 516.2 Tm (He thanked Maya for the letters, the pressed violet, the red scarf at the bus stop, and) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 501.8 Tm (the patience of waiting even when the trains failed. He apologized for the times he) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 487.4 Tm (mistook silence for loyalty. He wrote that Nara had taught him to draw faces looking) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 473.0 Tm (forward. He wrote that he hoped Maya had found a sky where the extra space no longer) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 458.6 Tm (felt frightening.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 439.2 Tm (Raka folded the letter and placed it inside the blue tin pencil case with the others.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 424.8 Tm (The case now held forty-seven letters from Maya, two unsent letters from Raka, one paper) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 410.4 Tm (bookmark, and the corner of a train ticket from 12 February 2018. He did not call this) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 396.0 Tm (moving on. He called it making room.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 376.6 Tm (The story ends without a dramatic reunion. Years later, Raka passes through Liris) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 362.2 Tm (Station and notices that Platform 3 has a new sign. The brass clock has been repaired,) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 347.8 Tm (but he still remembers the evening it stopped. He stands near the vending machine where) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 333.4 Tm (he once hid during Maya's departure. This time he does not look down. A train arrives. A) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 319.0 Tm (train leaves. The platform becomes quiet again, and Raka walks toward the exit.) Tj ET
+BT /F2 13.5 Tf 1 0 0 1 64 295.6 Tm (8. RAG Experiment Guide Embedded in the Document) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 275.6 Tm (This section is intentionally included to help compare RAG parameter settings. It) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 261.2 Tm (repeats important facts in a structured way, which helps test whether retrieval finds) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 246.8 Tm (the correct chunks or gets distracted by similar details.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 227.4 Tm (Fact A: Raka and Maya first speak because Raka drops a blue tin pencil case in grade) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 213.0 Tm (five. Fact B: Maya moves to Kiyora Town on 29 March 2016. Fact C: the first letter is) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 198.6 Tm (posted on 6 April 2016 and arrives on 9 April 2016. Fact D: they exchange 47 letters) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 184.2 Tm (before the reunion. Fact E: the reunion is planned for 12 February 2018. Fact F: a) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 169.8 Tm (signal failure near East Rindang delays the train. Fact G: the brass station clock stops) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 155.4 Tm (at 17:42. Fact H: Maya waits at the old market bus stop with a red scarf and a biscuit) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 141.0 Tm (tin of letters. Fact I: Raka arrives at Kiyora at 19:18. Fact J: Raka writes a final) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 126.6 Tm (unsent letter on 3 December 2023.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 107.2 Tm (Questions that should be easy with small chunks: Who had the red scarf? What object held) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 92.8 Tm (Maya's letters? What model-like object did Raka draw often? When did the clock stop?) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 73.4 Tm (Questions that need broader context: Why did the reunion not repair the distance? How) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 64 34 Tm (Task 15 RAG sample document - page 5 of 6) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 998 >>
+stream
+BT /F1 10.2 Tf 1 0 0 1 64 728.0 Tm (did Raka's understanding of distance change? Why does Nara say Platform 3 sounds like) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 713.6 Tm (waiting, not home?) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 694.2 Tm (Parameter notes: smaller CHUNK_SIZE may isolate facts cleanly but can split emotional) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 679.8 Tm (context. Larger CHUNK_SIZE may preserve narrative meaning but can include distracting) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 665.4 Tm (details. Higher TOP_K_INITIAL helps when relevant facts are spread across the document.) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 651.0 Tm (FINAL_TOP_M controls how many chunks the LLM sees. USE_RERANKER should help when several) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 636.6 Tm (chunks mention trains, letters, rain, and stations. Low TEMPERATURE is best for factual) Tj ET
+BT /F1 10.2 Tf 1 0 0 1 64 622.2 Tm (answers based on this document.) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 64 34 Tm (Task 15 RAG sample document - page 6 of 6) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000155 00000 n 
+0000000225 00000 n 
+0000000300 00000 n 
+0000005049 00000 n 
+0000005185 00000 n 
+0000010554 00000 n 
+0000010690 00000 n 
+0000015876 00000 n 
+0000016013 00000 n 
+0000021284 00000 n 
+0000021422 00000 n 
+0000026543 00000 n 
+0000026681 00000 n 
+0000027731 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+27869
+%%EOF
